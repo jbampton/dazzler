@@ -6,7 +6,7 @@ pytest-cov==2.12.1
 python-coveralls
 mypy==0.902
 selenium==3.141.0
-sphinx==4.0.2
+sphinx==4.0.3
 m2r2==0.2.7
 Flask-Sphinx-Themes==1.0.2
 sphinx-autodoc-typehints==1.12.0
